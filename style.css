@@ -56,3 +56,19 @@ li {
   padding: 0;
   background: lemonchiffon;
 }
+header {
+  background-color: rgb(73, 118, 64);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+li.header {
+  display: inline-block;
+  margin: 30px 30px
+}
+a {
+  color: rgb(180, 180, 180);
+  font-family: 'Indie Flower', sans-serif;
+  font-size: 2em;
+}
